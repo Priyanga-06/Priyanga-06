@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149123556.jpg" width="100%" />
+  <img src="https://www.google.com/imgres?q=banner%20image%20for%20github&imgurl=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F1512226716%2F6065a1d8-7164-4806-b4ea-f0080276e8b7-cover.png&imgrefurl=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1070386597620428605%2Fgithub-profile-icons-and-banners-v1-2-free&docid=HY3XhZJht3DuGM&tbnid=AkYWIQ8bfFRmKM&vet=12ahUKEwijlNeO6KCRAxVrVWwGHSN0I4IQM3oECBsQAA..i&w=800&h=409&hcb=2&ved=2ahUKEwijlNeO6KCRAxVrVWwGHSN0I4IQM3oECBsQAA />
 </p>
 
 <h1 align="center" style="font-family: 'Times New Roman', serif;">
