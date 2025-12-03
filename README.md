@@ -167,8 +167,11 @@
 #  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanga-06&show_icons=true&theme=default" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanga-06&layout=compact&theme=default" height="160px"/>
+  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+&theme=react-dark)
+
 </p>
 
 ---
