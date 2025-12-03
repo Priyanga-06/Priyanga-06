@@ -93,7 +93,7 @@
   </tr>
 </table>
 
-<a href="https://www.codechef.com/users/sandhiya_ai" target="_blank">
+<a href="https://www.codechef.com/users/kit23bam039" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
@@ -175,7 +175,7 @@
 
 #  GitHub Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Priyanga-06/Priyanga-06/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -188,10 +188,10 @@
  Portfolio: Coming Soon  
 
 <p>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:priyagana05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Priyanga-06">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
