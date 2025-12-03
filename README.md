@@ -1,122 +1,134 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149123556.jpg"
-       width="100%" />
+  <img src="https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149123556.jpg" width="100%" />
 </p>
 
-<!-- Title -->
 <h1 align="center" style="font-family: 'Times New Roman', serif;">
-  Hi, I'm Priyanga�
+  Hi, I'm Priyanga
 </h1>
 
 <h3 align="center" style="font-family: 'Times New Roman', serif;">
-  AIML Student | Python Developer | IoT Enthusiast | Web Developer
+  AIML Student | Python Developer | IoT Builder | Web Developer
 </h3>
+
+---
+
+##  Tech Stack (with Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,tensorflow" height="70"/>
+  <img src="https://skillicons.dev/icons?i=firebase,arduino" height="70"/>
+</p>
 
 ---
 
 ##  About Me  
 <div style="font-family: 'Times New Roman', serif; font-size: 17px;">
 
-- 🎓 Currently pursuing **Artificial Intelligence & Machine Learning**  
-- 🧠 Passionate about **DNN, ML, IoT Systems & Web Development**  
-- 💡 Loves building smart systems with **NodeMCU, Sensors, Python & Web Tech**  
-- 🌐 Always curious to learn, explore and create real-world tech solutions  
-- 🎯 Goal: Become a skilled developer in a good IT company  
+-  AIML Student at KIT  
+-  Interested in **Python, Deep Learning, IoT, Web Development**  
+-  Worked hands-on with **NodeMCU, RFID, Sensors, Firebase**  
+-  Builds projects that solve real-world problems  
+-  Aim: Become a strong software developer in IT industry  
 
 </div>
 
 ---
 
-## 🛠️ Tech Skills  
-
-### **Programming Languages**
-| Skill | Level |
-|-------|--------|
-| 🐍 Python | ⭐⭐⭐⭐☆ |
-| 💻 C | ⭐⭐⭐☆☆ |
-| 📘 JavaScript | ⭐⭐⭐☆☆ |
-
-### **Web Development**
-| Skill | Tools |
-|-------|--------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Node.js (Basics) |
-| UI | Basic Responsive Designs |
-
-### **IoT Skills**
-| Component / Area | Experience |
-|------------------|------------|
-| NodeMCU ESP8266 | ✔✔✔✔ |
-| RFID, Sensors | ✔✔✔ |
-| Firebase / Cloud | ✔✔ |
-| Automation & Prototyping | ✔✔✔ |
-
----
-
-## 🚀 Featured Projects
-
-### **1️⃣ Deep Neural Network – Pet Needs Classifier (DNN Project)**
-- Built a custom **Deep Neural Network** model using TensorFlow/Keras  
-- Classifies pet needs (food, medicine, wash, play, etc.)  
-- Preprocessing, model training, evaluation, prediction pipeline included  
-- Perfect beginner-to-intermediate level AI project  
-
-🔗 *Repository:* Coming soon  
-
----
-
-### **2️⃣ Smart Library System – IoT Project**
-- IoT-based **automated library** using RFID + NodeMCU  
-- Tracks book issue/return using unique RFID tags  
-- Sends data to cloud & maintains live status  
-- Low-cost model designed for real use in institutions  
-
-🔗 *Repository:* Coming soon  
-
----
-
-## ⭐ GitHub Stats  
+##  Competitive Programming Profiles
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160px" />
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_ID">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🏆 Badges
+#  Project Showcase  
 
+##  **1️⃣ IoT Smart Library System**  
+**Tech Used:** NodeMCU ESP8266, RFID, C/C++, Firebase  
+
+✔ Identifies books using RFID tags  
+✔ Updates issue/return details automatically  
+✔ Sends real-time updates to cloud  
+✔ Low-cost model suitable for schools & colleges  
+✔ Designed with waterproof, compact hardware  
+
+📷 *Technical Image:*  
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-%230080ff" />
-  <img src="https://img.shields.io/badge/IoT%20Developer-%23ff66b3" />
-  <img src="https://img.shields.io/badge/Python%20Coder-%23ffd633" />
-  <img src="https://img.shields.io/badge/Web%20Developer-%2320c997" />
+  <img src="https://img.freepik.com/free-photo/iot-smart-technology-background_23-2151679156.jpg" width="80%" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+##  **2️⃣ DNN – Pet Needs Classifier**  
+**Tech Used:** Python, TensorFlow, NumPy, OpenCV  
+
+✔ Built a Deep Neural Network model  
+✔ Classifies pet needs (food / wash / medicine / play)  
+✔ Preprocessing pipeline + training + evaluation included  
+✔ 90%+ accuracy on custom dataset  
+✔ Suitable for automation & smart pet-care systems  
+
+📷 *Technical Image:*  
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/ai-machine-learning-concept_23-2148689978.jpg" width="80%" />
+</p>
+
+---
+
+#  Certifications
+
+| Certification | Platform | Year |
+|--------------|----------|------|
+| Python Programming | Coursera / Udemy | 2024 |
+| Introduction to IoT | NPTEL / Cisco | 2024 |
+| Machine Learning Basics | Google / Kaggle | 2024 |
+| Web Development Bootcamp | Udemy | 2023 |
+
+---
+
+#  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160px"/>
+</p>
+
+---
+
+#  GitHub Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Contact Me
+#  Let’s Connect  
+<div align="center" style="font-family: 'Times New Roman', serif;">
 
-<div style="font-family: 'Times New Roman', serif; font-size: 17px;">
+ **Email:** YOUR_EMAIL  
+ **LinkedIn:** YOUR_LINKEDIN (optional)  
+ Portfolio: Coming Soon  
 
-- 📧 Email: **your-email@gmail.com**  
-- 💼 LinkedIn: *(add link if you have)*  
-- 🌏 Portfolio: Coming soon  
+<p>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
 <p align="center" style="font-family: 'Times New Roman', serif;">
-  ⭐ *Thanks for visiting my profile!* ⭐
+  ⭐ *Thanks for visiting my profile!* ⭐  
 </p>
-
-
