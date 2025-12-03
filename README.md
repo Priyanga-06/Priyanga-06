@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/imgres?q=banner%20image%20for%20github&imgurl=https%3A%2F%2Fs3-alpha.figma.com%2Fhub%2Ffile%2F1512226716%2F6065a1d8-7164-4806-b4ea-f0080276e8b7-cover.png&imgrefurl=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1070386597620428605%2Fgithub-profile-icons-and-banners-v1-2-free&docid=HY3XhZJht3DuGM&tbnid=AkYWIQ8bfFRmKM&vet=12ahUKEwijlNeO6KCRAxVrVWwGHSN0I4IQM3oECBsQAA..i&w=800&h=409&hcb=2&ved=2ahUKEwijlNeO6KCRAxVrVWwGHSN0I4IQM3oECBsQAA />
+  <img src="/>
 </p>
 
 <h1 align="center" style="font-family: 'Times New Roman', serif;">
@@ -37,27 +37,98 @@
 
 ##  Competitive Programming Profiles
 
-<p align="center">
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+###  LeetCode Profile
+
+<a href="https://leetcode.com/u/sandhiya_ai/">
+  <img src="https://leetcard.jacoblin.cool/sandhiya_ai?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</a>
+
+<a href="https://leetcode.com/u/sandhiya_ai/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+
+<br/>
+
+**Achievements**
+- Specialized in **Dynamic Programming, Arrays, and Strings**
+- Maintains an **active solving streak**
+- **Consistent contributor** to coding challenges
+
+</td>
+
+<td width="50%" valign="top">
+
+###  CodeChef Profile
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Problems_Solved-420-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Max_Rating-1510-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Current_Rating-1510-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Contests-45-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active_Days-160-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Division-Div_4_⭐-A29BFE?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://www.codechef.com/users/sandhiya_ai" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+<br/>
+
+**Achievements**
+- Solved **300+ Problems**
+- **Peak Rating:** 1081  
+- **87 Contests** Participated  
+- **160+ Active Days**
+
+</td>
+</tr>
+</table>
 
 ---
+
+<span style="font-size:16px;">Keep coding, keep growing! 💻</span>
+
+</div>
+
+
+---
+
 
 #  Project Showcase  
 
 ##  **1️⃣ IoT Smart Library System**  
 **Tech Used:** NodeMCU ESP8266, RFID, C/C++, Firebase  
 
-✔ Identifies books using RFID tags  
-✔ Updates issue/return details automatically  
-✔ Sends real-time updates to cloud  
-✔ Low-cost model suitable for schools & colleges  
-✔ Designed with waterproof, compact hardware  
+ Identifies books using RFID tags  
+ Updates issue/return details automatically  
+ Sends real-time updates to cloud  
+ Low-cost model suitable for schools & colleges  
+ Designed with waterproof, compact hardware  
 
 📷 *Technical Image:*  
 <p align="center">
@@ -69,11 +140,11 @@
 ##  **2️⃣ DNN – Pet Needs Classifier**  
 **Tech Used:** Python, TensorFlow, NumPy, OpenCV  
 
-✔ Built a Deep Neural Network model  
-✔ Classifies pet needs (food / wash / medicine / play)  
-✔ Preprocessing pipeline + training + evaluation included  
-✔ 90%+ accuracy on custom dataset  
-✔ Suitable for automation & smart pet-care systems  
+ Built a Deep Neural Network model  
+ Classifies pet needs (food / wash / medicine / play)  
+ Preprocessing pipeline + training + evaluation included  
+ 90%+ accuracy on custom dataset  
+ Suitable for automation & smart pet-care systems  
 
 📷 *Technical Image:*  
 <p align="center">
