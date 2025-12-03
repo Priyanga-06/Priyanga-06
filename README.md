@@ -43,11 +43,11 @@
 
 ###  LeetCode Profile
 
-<a href="https://leetcode.com/u/sandhiya_ai/">
-  <img src="https://leetcard.jacoblin.cool/sandhiya_ai?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
+<a href="https://leetcode.com/u/711523bam039/">
+  <img src="https://leetcard.jacoblin.cool/711523bam039?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
 
-<a href="https://leetcode.com/u/sandhiya_ai/" target="_blank">
+<a href="https://leetcode.com/u/711523bam039/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
@@ -67,20 +67,20 @@
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Problems_Solved-420-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Problems_Solved-330-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Max_Rating-1510-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Max_Rating-1093-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Current_Rating-1510-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Current_Rating-1081-FFA94D?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Contests-45-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+      <img src="https://img.shields.io/badge/Contests-87-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Active_Days-160-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
