@@ -132,7 +132,7 @@
 
 📷 *Technical Image:*  
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/iot-smart-technology-background_23-2151679156.jpg" width="80%" />
+  <img src="https://www.google.com/imgres?q=technical%20images%20iot%20images&imgurl=https%3A%2F%2Fwww.cyberdb.co%2Fwp-content%2Fuploads%2F2022%2F12%2Fiot.jpg&imgrefurl=https%3A%2F%2Fwww.cyberdb.co%2Fan-internet-of-things-technology-current-tendencies-in-iot-outsourcing%2F&docid=22bi6FHSBvJvrM&tbnid=F19qbi21MFph3M&vet=12ahUKEwih0OKg76CRAxU3UGcHHd-gL9sQM3oECCAQAA..i&w=818&h=471&hcb=2&ved=2ahUKEwih0OKg76CRAxU3UGcHHd-gL9sQM3oECCAQAA" />
 </p>
 
 ---
@@ -148,7 +148,7 @@
 
 📷 *Technical Image:*  
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/ai-machine-learning-concept_23-2148689978.jpg" width="80%" />
+  <img src=""/>
 </p>
 
 ---
