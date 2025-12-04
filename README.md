@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="/>
-</p>
+![Banner](./Banner.png)
 
 <h1 align="center" style="font-family: 'Times New Roman', serif;">
   Hi, I'm Priyanga
