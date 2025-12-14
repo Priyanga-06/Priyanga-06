@@ -10,7 +10,7 @@
 
 ---
 
-##  Tech Stack (with Icons)
+##  Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,tensorflow" height="70"/>
@@ -116,7 +116,39 @@
 ---
 
 
-#  Project Showcase  
+##  Tech Stack
+###  Programming Languages & Core Concepts 
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" /> 
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="48" alt="DBMS" />
+</p>
+
+###  Frontend Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
+</p>
+
+
+###  Tools & Frameworks
+<p align="center">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="110" alt="Streamlit" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="48" alt="Flask" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
+</p>
+
+
+---------
+
+
+#  My Project 
 
 ##  **1️⃣ IoT Smart Library System**  
 **Tech Used:** NodeMCU ESP8266, RFID, C/C++, Firebase  
