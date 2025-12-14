@@ -10,6 +10,12 @@
 
 ---
 
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2200&pause=900&color=B388FF&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Building+Intelligent+Systems;UI/UX+designer" />
+</p>
+<p align="center">
+
 ##  Tech Stack 
 
 <p align="center">
