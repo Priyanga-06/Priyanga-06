@@ -202,8 +202,6 @@
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanga-06&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanga-06&layout=compact&theme=dark&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanga-06&theme=dark)
 
 </div>
