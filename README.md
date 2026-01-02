@@ -154,6 +154,8 @@
 ---------
 
 
+
+
 #  My Project 
 
 ##  **1️⃣ IoT Smart Library System**  
@@ -165,10 +167,9 @@
  Low-cost model suitable for schools & colleges  
  Designed with waterproof, compact hardware  
 
-📷 *Technical Image:*  
-<p align="center">
-  <img src="https://www.google.com/imgres?q=technical%20images%20iot%20images&imgurl=https%3A%2F%2Fwww.cyberdb.co%2Fwp-content%2Fuploads%2F2022%2F12%2Fiot.jpg&imgrefurl=https%3A%2F%2Fwww.cyberdb.co%2Fan-internet-of-things-technology-current-tendencies-in-iot-outsourcing%2F&docid=22bi6FHSBvJvrM&tbnid=F19qbi21MFph3M&vet=12ahUKEwih0OKg76CRAxU3UGcHHd-gL9sQM3oECCAQAA..i&w=818&h=471&hcb=2&ved=2ahUKEwih0OKg76CRAxU3UGcHHd-gL9sQM3oECCAQAA" />
-</p>
+ **Tech Stack**  
+<img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/RFID_RC522-5A4FCF?style=flat-square&logo=protocols&logoColor=white" />
 
 ---
 
@@ -181,11 +182,9 @@
  90%+ accuracy on custom dataset  
  Suitable for automation & smart pet-care systems  
 
-📷 *Technical Image:*  
-<p align="center">
-  <img src=""/>
-</p>
-
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8E24AA?style=flat-square&logo=tensorflow&logoColor=white" />
 ---
 
 #  Certifications
@@ -230,8 +229,8 @@
 #  Let’s Connect  
 <div align="center" style="font-family: 'Times New Roman', serif;">
 
- **Email:** YOUR_EMAIL  
- **LinkedIn:** YOUR_LINKEDIN (optional)  
+ **Email:** PRIYANGA G  
+ **LinkedIn:** priyanga-g 
  Portfolio: Coming Soon  
 
 <p>
